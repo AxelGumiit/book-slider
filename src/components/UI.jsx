@@ -46,7 +46,7 @@ export const UI = () => {
       <main className=" pointer-events-none select-none z-10 fixed  inset-0  flex justify-between flex-col">
         <a
           className="pointer-events-auto mt-10 ml-10"
-          href="https://lessons.wawasensei.dev/courses/react-three-fiber"
+          href="index.html"
         >
           <img className="w-20" src="/images/heart.png" />
         </a>
@@ -94,12 +94,7 @@ export const UI = () => {
             <h2 className="shrink-0 text-black text-12xl font-bold italic outline-text">
               Ate Janice
             </h2>
-            <h2 className="shrink-0 text-white text-8xl font-extralight italic">
-            Keep 
-            </h2>
-            <h2 className="shrink-0 text-black text-13xl font-bold">
-              Stronger
-            </h2>
+      
           </div>
           <div className="absolute top-0 left-0 bg-white/0 animate-horizontal-scroll-2 flex items-center gap-8 px-8 w-max">
             <h1 className="shrink-0 text-white text-10xl font-black ">
@@ -109,16 +104,10 @@ export const UI = () => {
             Kuya Steele
             </h2>
             <h2 className="shrink-0 text-white text-12xl font-bold">
-            Ate Janice
+            At
             </h2>
             <h2 className="shrink-0 text-black text-12xl font-bold italic outline-text">
-            Keep 
-            </h2>
-            <h2 className="shrink-0 text-white text-9xl font-medium">
-            Stronger
-            </h2>
-            <h2 className="shrink-0 text-black text-9xl font-bold italic">
-            Always
+            Ate Janice
             </h2>
           </div>
         </div>

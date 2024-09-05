@@ -7,9 +7,11 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "depoloy" : "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
     "@react-three/drei": "^9.108.1",
     "@react-three/fiber": "^8.16.8",
     "@types/three": "0.152.1",
