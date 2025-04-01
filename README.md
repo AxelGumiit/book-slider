@@ -13,6 +13,25 @@ This project demonstrates an interactive book slider created using **React Three
 
 
 
+To set up the project locally, follow these steps:
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/AxelGumiit/book-slider.git
+cd 3d-website
+```
+###2. Install dependencies:
+```bash
+npm install
+yarn install
+
+```
+###To Run the app
+```bash
+npm run dev
+```
+
 Technologies Used
 React: Front-end JavaScript framework for building user interfaces.
 
@@ -22,7 +41,7 @@ Three.js: A 3D graphics library that powers the book's 3D environment.
 
 To run the app after cloning it
 
-```bash
-npm install
-npm run dev
+To set up the project locally, follow these steps:
+
+### 1. Clone the repository:
 
