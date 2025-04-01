@@ -9,13 +9,8 @@ This project demonstrates an interactive book slider created using **React Three
 - **Customizable**: Easily customizable to fit various use cases, including adding your own pages or changing the animation style.
 - **Smooth Transitions**: Fluid page transitions with proper depth and perspective.
 
-## Demo
+![image](https://github.com/user-attachments/assets/a5034c3d-a671-414b-8045-afe84357f40d) 
 
-You can view the live demo of the book slider [here](#). *(Link your live demo here)*.
-
-## Installation
-
-To use this project locally, follow these steps:
 
 
 Technologies Used
@@ -25,7 +20,7 @@ React Three Fiber: React renderer for Three.js, allowing you to use 3D elements 
 
 Three.js: A 3D graphics library that powers the book's 3D environment.
 
-### 1. Clone the repository:
+TO run
 
 ```bash
 npm install
