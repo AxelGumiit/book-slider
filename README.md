@@ -41,9 +41,3 @@ React Three Fiber: React renderer for Three.js, allowing you to use 3D elements 
 
 Three.js: A 3D graphics library that powers the book's 3D environment.
 
-To run the app after cloning it
-
-To set up the project locally, follow these steps:
-
-### 1. Clone the repository:
-
