@@ -11,6 +11,8 @@ This project demonstrates an interactive book slider created using **React Three
 
 ![image](https://github.com/user-attachments/assets/a5034c3d-a671-414b-8045-afe84357f40d) 
 
+You can view the live demo of the 3D website [here](#https://happy-aniversarry.netlify.app/). *(Replace with actual demo link)*.
+
 
 
 To set up the project locally, follow these steps:
